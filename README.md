@@ -1,2 +1,2 @@
-# DSAT_PROJECT_1
-DSAT mini project1
+# ATM_PROJECT_1
+Training_DSAT_mini project1
